@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewPager_TabLayout_Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home fragment</string>
+    <string name="mail_fragment">Mail fragment</string>
+    <string name="notification_fragment">Notification fragment</string>
+    <string name="settings_fragment">Settings fragment</string>
+</resources>
